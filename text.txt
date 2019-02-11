@@ -1,1 +1,3 @@
 ARNAU: creat a master
+
+FERRAN: la meva modificacio
