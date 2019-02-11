@@ -1,5 +1,2 @@
 ARNAU: test
-FERRAN: master-modi
-FERRAN: prova branch
-FERRAN: tornem-hi amb branch
-ARA NOMES HO FAIG AMB PROVA
+FERRAN: aquesta es la meva prova
