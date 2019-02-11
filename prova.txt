@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ARNAU: test_branch
 FERRAN: master-modi(canvi arnau)
 FERRAN: prova branch
@@ -7,3 +8,7 @@ ARNAU: a la meva branch
 
 
 
+=======
+ARNAU: test
+FERRAN: aquesta es la meva prova
+>>>>>>> 1b40af920daf16554b2e4a9c40e2a7948bc12ba9
